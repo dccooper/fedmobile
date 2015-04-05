@@ -12,7 +12,8 @@
 The Constructive Cost Model [(COCOMO)](https://en.wikipedia.org/wiki/COCOMO) has been found by T2 to provide estimates that closely align with final project numbers when building mobile apps. 
 
 ### Checklist for BCA
-[ ] Item one
+[ ] Item one  
+
 
 ## Business Requirements Document
 
