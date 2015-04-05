@@ -1,2 +1,0 @@
-# Google Publishing Checklist
-
