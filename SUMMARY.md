@@ -1,9 +1,9 @@
 # Summary
 
 * [introduction](README.md)
-* [Customer Discovery](Creation/customer_discovery.md)
 * [Creation](Creation/creation-overview.md)
    * [Initial Idea and Planning](Creation/initial_idea_and_planning.md)
+   * [Customer Discovery](Creation/customer_discovery.md)
    * [Customer Discovery](Creation/customer_discovery.md)
    * [Environmental Scanning](Creation/environmental_scanning.md)
    * [Business Requirements](Creation/business_requirements.md)
