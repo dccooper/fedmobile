@@ -4,7 +4,7 @@
 * [Creation](Creation/creation-overview.md)
    * [Customer Discovery](Creation/customer_discovery.md)
    * [Environmental Scanning](Creation/environmental_scanning.md)
-   * [Business Requirements](business_requirements.md)
+   * [Business Requirements](Creation/business_requirements.md)
    * [Additional Reading](Creation/additional_reading.md)
    * [Initial Idea and Planning](Creation/initial_idea_and_planning.md)
 * [Launch](Launch/launch-overview.md)
