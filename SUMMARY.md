@@ -12,4 +12,5 @@
    * [Google Publishing Checklist](Launch/google_publishing_checklist.md)
    * [Amazon Publishing Checklist](Launch/amazon_publishing_checklist.md)
 * [Sustainment](Sustainment/sustainment-overview.md)
+   * Analytics
 
