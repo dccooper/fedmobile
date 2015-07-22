@@ -20,13 +20,13 @@ So in order to avoid this, you need to get outside your office and engage with p
 **Patients**
 
 **Questions to ask yourself about your idea**
-- Is it clearly related to Psychological Health or Traumatic Brain Injury?
-- Does it have a valid scientific evidence base?
+- Is it clearly related to my line of work?
+- Does it have a valid evidence base?
 - Why is it best suited to a mobile platform? 
   - Would it work equally as well on the web?
   - Is it meant to be used on the go or will people mostly use it from their office?
   - Does it always or regularly need to be connected to the internet to work?
-- What features would a mobile app allow you to do that you cannot currently get from paper or a PDF?
+- What features would a mobile app allow you to do that you cannot currently get from paper or an electronic document?
 - How often will the information need to be updated?
   - Who will do that?
   - How long will it take?
