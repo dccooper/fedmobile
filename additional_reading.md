@@ -1,6 +1,7 @@
 # Additional Reading
+The following books have been featured in numerous lists from startup founders and other innovators. While not specific to mobile, their wide applicability to building and sustaining software products means they will have plenty of lessons for your team.
 
-###Overview
+###General Books on Product Development
 The Lean Startup - Eric Ries  
 Running Lean - Ash Maurya  
 Value Proposition Design - Alexander Osterwalder  

@@ -14,6 +14,8 @@ A use case is a requirement found in the Agile Software methodology. it is a hig
 
 User stories typically follow the format of "As a **[type of user]** I want to **[desired action]** so that I can **[context/reason for the action.]**"
 
+Another helpful way to frame a use case is by using the Jobs-to-be-done frame work to create a "job story." One complaint against user stories is that they don't always provide developer - especially those working remotely - with enough context 
+
 Because they are a) non-technical and b) usually follow a narrative approach to defining product specifications, they can be a great way to start thinking about and scoping out your product. 
 
 
