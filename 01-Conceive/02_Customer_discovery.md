@@ -13,11 +13,9 @@ Most product don't fail because of poor technology - or even poor design. Rather
 >-Steve Blank
 
 **Test your hypothesis**
-So in order to avoid this, you need to get outside your office and engage with potential users. For our mobile apps, this means patients and providers.
+So in order to avoid this, you need to get outside your office and engage with potential users. 
 
-**Providers**
-
-**Patients**
+There are many ways that you can do this ranging from formal focus groups down to cornering whomever you can with a clipboard in hand. The important thing is to get unbiased feedback directly from your potential users. This data is what should you use to drive your product decisions and backup those decisions to your bosses. 
 
 **Questions to ask yourself about your idea**
 - Is it clearly related to my line of work?
@@ -30,11 +28,14 @@ So in order to avoid this, you need to get outside your office and engage with p
 - How often will the information need to be updated?
   - Who will do that?
   - How long will it take?
-- Apps work best for the following uses
+- Is there already an app that you can point to that is like what you want?
+  - If so, what makes your app different?
+
+- According to the book *Mobile First* by Luke Wrobelewski, apps work for these general uses:
   - **Lookup/Find:** I need an answer to something now—frequently related to my current location in the world
   - **Explore/Play:** I have some time to kill and just want a few idle time distractions
   - **Check In/Status:** Something important to me keeps changing or updating and I want to stay on top of it.
   - **Edit/Create:** I need to get something done now that can’t wait.
 - Does your idea align to one of the above uses?
-- Is there already an app that you can point to that is like what you want?
-  - If so, what makes your app different?
+
+
