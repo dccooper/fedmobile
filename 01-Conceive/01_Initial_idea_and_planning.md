@@ -12,8 +12,16 @@ So undertaking a throurogh market analyisis is a key step before beginning a new
 
 You can also learn how NOT to build a specific feature or find specific parts of a product that you DON'T want by looking at what's available. 
 
-## Finding the Voice of the Customer
+## Finding the Voice of the User
+Again, it's your users who should be calling the tune when it comes to your product. Your boss may like green, but if your users like blue - the product has to be blue. (This why it's important to make data-driven decisions whenver you can.) That said there are many different ways to find out what your users need.
 
+### Needs analysis / Focus groups
+
+
+### Jobs-to-be-Done (JTBD)
+Another way to understand what your users need from their perspecitive is by using the "jobs-to-be-done" framework. This framework gets you thinking beyond a specific solution and looking instead at the "job" your user is "hiring" a solution to fill. In other words, say you're trying to sell drill bits to a customer. You could think about making differnt kinds of drill bits, in differnet sizes or new ways to market them. By using the JTBD framework, you flip the idea by looking, not at a given solution but at the job the user is trying to accomplish. In this case, the user of a drill bit, but rather to make a given size hole in something. 
+
+You can learn more about the JTBD framework and how it's used here:
 
 ## Things to keep in mind
 
