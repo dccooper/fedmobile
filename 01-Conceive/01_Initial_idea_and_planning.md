@@ -15,6 +15,8 @@ You can also learn how NOT to build a specific feature or find specific parts of
 ## Finding the Voice of the User
 Again, it's your users who should be calling the tune when it comes to your product. Your boss may like green, but if your users like blue - the product has to be blue. (This why it's important to make data-driven decisions whenver you can.) That said there are many different ways to find out what your users need.
 
+Finding the Voice of the User can involve many different tasks: Market research, informal interviews, focus groups or even online tools like Intercom and ???. Ultimately, you'll choose the one that's right for you but try as many as you can, and as cheaply as you can. Sometimes you have to just go hunting. For example, if you're making a medically oriented tool, it can be really difficult to interview medical providers during their workdays as they are often very busy. However, if you put up a sign at a conference or other professional gathering, you'll have no end of people volunteering to tell you about their problems that you could solve. 
+
 ### Needs analysis / Focus groups
 
 
@@ -36,7 +38,9 @@ The data you'll need for effective product decisions is most often found outside
 ### Embrace your Constraints
 We all know that the private sector can take risks and use products that we as federal employees and public servants cannot. But rather than railing against these limitations we can instead embrace them and use tham to drive a better product. After all, if you can make *anything*, where do you even start?
 
-### Product vs. Project Management
-As mentioned in the README, this guide is based on the format laided out in the Product Mangement Body of Knowledge (ProdBOK). You have likely heard of a Project Manager, but possibly not a Product Manager. The difference is that, while *project* managers may come and go throughout the development of different projects (Technical project managers, promotion project managers, etc.) focused on a single prodcut, the *product* manager is responsible for the entire product throughout the lifecycle.
+## Product vs. Project Management
+Finally, as mentioned in the README, this guide is based on the format laided out in the Product Mangement Body of Knowledge (ProdBOK). You have likely heard of a Project Manager, but possibly not a Product Manager. The difference is that, while *project* managers may come and go throughout the development of different projects (Technical project managers, promotion project managers, etc.) focused on a single prodcut, the *product* manager is responsible for the entire product throughout the lifecycle.
 
 > Product managers are often described as the "mini-CEO" of a given product.
+
+As the government continues to learn from the private sector when building software, there is certainly a case for having product manager become a more formalized role in many organizations. 
