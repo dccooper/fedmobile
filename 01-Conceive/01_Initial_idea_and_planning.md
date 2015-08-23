@@ -1,8 +1,21 @@
 # Initial Idea and Planning
 >"You know what would be great to have for this? An app. They seem really popular. Let's get one of those." - Your Boss
 
+## Market / Gap Analysis
+As good stewards of federal monies, before we try and build a new product we should first see if anyhting like it already exists on the market. Finding an exisiting Commercial- (COTS) or Governmental- (GOTS) off-the-shelf product is far preferable than trying to build your own. 
 
-##Things to keep in mind
+Similarly, if there is an exisiting solution that is 75-80% of what you're proposing, you're going to be more hard pressed to make the case for spending the money just to get that last bit. 
+
+So undertaking a throurogh market analyisis is a key step before beginning a new product. In this way you can see what products are available, how they are being executed and what standard features users may be expecting.
+
+> "Good artists create. Great artists steal" - Pablo Picasso
+
+You can also learn how NOT to build a specific feature or find specific parts of a product that you DON'T want by looking at what's available. 
+
+## Finding the Voice of the Customer
+
+
+## Things to keep in mind
 
 ### Be Data Driven
 Whenever possible, it's a good idea to try and back up your product descisions with supporting data. It's easy to argue about a decision when it's based on people's opinions; it's much harder to argue, however, when you have supporting data that supports your decisions.  
