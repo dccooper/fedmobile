@@ -3,11 +3,10 @@
 
 So you've been asked to make an app in the federal governement and don't have a clue as to where to start. 
 
-This guide is bulit for someone like you who is trying to hit the ground running, who needs to learn where to start and that things you need to keep in mind. 
+This guide is built for someone like you who is trying to hit the ground running, who needs to learn where to start and what things you need to keep in mind. 
 
 
-
-# Things to keep in mind
+# Overall good tips
 
 ## Be Data Driven
 Whenever possible, it's a good idea to try and back up your product descisions with supporting data. It's easy to argue about a decision when it's based on people's opinions; it's much harder to argue, however, when you have supporting data that supports your decisions.  
