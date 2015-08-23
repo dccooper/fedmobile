@@ -1,11 +1,21 @@
 # Initial Idea and Planning
+>"You know what would be great to have for this? An app. They seem really popular. Let's get one of those." - Your Boss
+
 
 ##Things to keep in mind
 
-###Be Data Driven
+### Be Data Driven
+Whenever possible, it's a good idea to try and back up your product descisions with supporting data. It's easy to argue about a decision when it's based on people's opinions; it's much harder to argue, however, when you have supporting data that supports your decisions.  
 
 >"No facts exist inside the building, only opinions." 
 >–Steve Blank
 
-###Embrace your Constraints
+The data you'll need for effective product decisions is most often found outside your office. This means finding ways to reach out to your users. Whether through surveys or finding robust analytic methods, you should always look outside your team for answers first. 
+
+### Embrace your Constraints
 We all know that the private sector can take risks and use products that we as federal employees and public servants cannot. But rather than railing against these limitations we can instead embrace them and use tham to drive a better product. After all, if you can make *anything*, where do you even start?
+
+### Product vs. Project Management
+As mentioned in the README, this guide is based on the format laided out in the Product Mangement Body of Knowledge (ProdBOK). You have likely heard of a Project Manager, but possibly not a Product Manager. The difference is that, while *project* managers may come and go throughout the development of different projects (Technical project managers, promotion project managers, etc.) focused on a single prodcut, the *product* manager is responsible for the entire product throughout the lifecycle.
+
+> Product managers are often described as the "mini-CEO" of a given product.
