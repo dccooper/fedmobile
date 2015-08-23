@@ -39,3 +39,15 @@ There are many ways that you can do this ranging from formal focus groups down t
 - Does your idea align to one of the above uses?
 
 
+## Finding the Voice of the User
+Again, it's your users who should be calling the tune when it comes to your product. Your boss may like green, but if your users like blue - the product has to be blue. (This why it's important to make data-driven decisions whenver you can.) That said there are many different ways to find out what your users need.
+
+Finding the Voice of the User can involve many different tasks: Market research, informal interviews, focus groups or even online tools like Intercom and ???. Ultimately, you'll choose the one that's right for you but try as many as you can, and as cheaply as you can. Sometimes you have to just go hunting. For example, if you're making a medically oriented tool, it can be really difficult to interview medical providers during their workdays as they are often very busy. However, if you put up a sign at a conference or other professional gathering, you'll have no end of people volunteering to tell you about their problems that you could solve. 
+
+### Needs analysis / Focus groups
+
+
+### Jobs-to-be-Done (JTBD)
+Another way to understand what your users need from their perspecitive is by using the "jobs-to-be-done" framework. This framework gets you thinking beyond a specific solution and looking instead at the "job" your user is "hiring" a solution to fill. In other words, say you're trying to sell drill bits to a customer. You could think about making differnt kinds of drill bits, in differnet sizes or new ways to market them. By using the JTBD framework, you flip the idea by looking, not at a given solution but at the job the user is trying to accomplish. In this case, the user of a drill bit, but rather to make a given size hole in something. 
+
+You can learn more about the JTBD framework and how it's used here:

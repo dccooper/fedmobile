@@ -11,3 +11,11 @@ The purpose of this repo is to serve as a starting guide for you to incorporate 
 The sections of this guide follow the Product Management Lifecycle as laid out in the Product Management and Marketing Body of Knowledge (ProdBOK) developed by the Product Management Educational Institute (PEMI). 
 
 We have adapted it with lessons learned from working within the federal government.
+
+
+Guide authors and contributors include:
+David Cooper, Psy.D.
+Lead for Mobile Apps, National Center for Telehealth and Technology
+[david.c.cooper59.civ@mail.mil](mailto:david.c.cooper59.civ@mail.mil)
+
+If you have any questions, please reach out to us and ask!
