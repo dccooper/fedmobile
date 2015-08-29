@@ -13,9 +13,9 @@ The sections of this guide follow the Product Management Lifecycle as laid out i
 We have adapted it with lessons learned from working within the federal government.
 
 
-Guide authors and contributors include:
-David Cooper, Psy.D.
-Lead for Mobile Apps, National Center for Telehealth and Technology
-[david.c.cooper59.civ@mail.mil](mailto:david.c.cooper59.civ@mail.mil)
+Guide authors and contributors include:  
+David Cooper, Psy.D.  
+Lead for Mobile Apps, National Center for Telehealth and Technology  
+[david.c.cooper59.civ@mail.mil](mailto:david.c.cooper59.civ@mail.mil)  
 
 If you have any questions, please reach out to us and ask!
