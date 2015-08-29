@@ -31,12 +31,16 @@ There are many ways that you can do this ranging from formal focus groups down t
 - Is there already an app that you can point to that is like what you want?
   - If so, what makes your app different?
 
-- According to the book *Mobile First* by Luke Wrobelewski, apps work for these general uses:
+## Good uses for mobiel apps
+According to the book *Mobile First* by Luke Wrobelewski, apps work for these general uses:
   - **Lookup/Find:** I need an answer to something now—frequently related to my current location in the world
   - **Explore/Play:** I have some time to kill and just want a few idle time distractions
   - **Check In/Status:** Something important to me keeps changing or updating and I want to stay on top of it.
   - **Edit/Create:** I need to get something done now that can’t wait.
-- Does your idea align to one of the above uses?
+
+Does your idea align to one of the above uses?
+
+- Google also  
 
 
 ## Finding the Voice of the User
