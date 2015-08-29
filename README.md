@@ -17,6 +17,8 @@ Lead for Mobile Apps, National Center for Telehealth and Technology
 [david.c.cooper59.civ@mail.mil](mailto:david.c.cooper59.civ@mail.mil)  
 
 If you have any questions, please reach out to us and ask!
+
 ---
+
 ## Building a copy in Gitbook
 Coming Soon.
