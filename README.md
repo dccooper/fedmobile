@@ -8,7 +8,7 @@ So, you're working in the federal government and want to create a mobile applica
 
 The purpose of this repo is to serve as a starting guide for you as a federal employee to incorporate some of the best practices from the private sector. Despite having been around since 2009, mobile apps are still relatively new within the federal government. This guide will help you hit the ground running when thinking about a mobile app for your agency.
 
-The sections of this guide follow the Product Management Lifecycle as laid out in the [Product Management and Marketing Body of Knowledge](http://www.amazon.com/Guide-Product-Management-Marketing-Knowledge/dp/0984518509) (ProdBOK) developed by the Product Management Educational Institute (PEMI). We have adapted it with lessons learned from working within the federal government.
+The sections of this guide follow the Product Management Lifecycle as laid out in the [Product Management and Marketing Body of Knowledge](http://www.amazon.com/Guide-Product-Management-Marketing-Knowledge/dp/0984518509) (ProdBOK) developed by the [Association of International Product Marketing and Management](http://productmanagementbook.com/) (AIPMM). We have adapted it with lessons learned from working within the federal government.
 
 ---
 **Guide authors and contributors include:**  
