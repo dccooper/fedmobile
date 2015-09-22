@@ -6,3 +6,14 @@ To date, many organizations have predominately used only very basic analytics su
 Even more challenging is that, since each application differs in its expected use, each application with need to focus on different KPIs in order to determine success. For example, an application like [T2 MoodTracker](http://t2health.dcoe.mil/apps/t2-mood-tracker) is intended to be used multiple times per day. The number of Daily Average Users then, would be a good metric of success - a higher number indicating more use of the app on a daily basis. On the other hand, an application like [mTBI Pocket Guide] is not likely to be used every day, rather it is designed to stay on the phone until needed on the odd occasion. Even further, apps like [Breathe2Relax] are not intended to be used on a consistent basis - so if it were used as intended, the number of Daily Average Users should naturally fluctuate over time as people acquire the skill and no longer need the application.
 
 Ultimately, governement mobile applications will need to develop their own unique models for measuring return-on-investment and cost-benefit-analyses that are distinct from those in the private sector. 
+
+## Potential KPIs  
+Again, while the key analytics for measuring the success of a governement-built application will be different from those in the private sector, and will vary based on the application's intended use, there are still good indicators to generally consider.
+
+### Retention Rates
+
+### Usage Intervals
+
+### Behavior Flows
+
+### 

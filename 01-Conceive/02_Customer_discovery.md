@@ -18,8 +18,8 @@ So in order to avoid this, you need to get outside your office and engage with p
 There are many ways that you can do this ranging from formal focus groups down to cornering whomever you can with a clipboard in hand. The important thing is to get unbiased feedback directly from your potential users. This data is what should you use to drive your product decisions and backup those decisions to your bosses. 
 
 **Questions to ask yourself about your idea**
-- Is it clearly related to my line of work?
-- Does it have a valid evidence base?
+- Is it clearly related to my office/organization/agency's line of work?
+- For scientific products, does it have a valid evidence base?
 - Why is it best suited to a mobile platform? 
   - Would it work equally as well on the web?
   - Is it meant to be used on the go or will people mostly use it from their office?
@@ -32,7 +32,7 @@ There are many ways that you can do this ranging from formal focus groups down t
   - If so, what makes your app different?
 
 ## Good uses for mobile apps
-According to the book *Mobile First* by Luke Wrobelewski, apps work for these general uses:
+According to the book *Mobile First* by Luke Wrobelewski, apps are best used in these general cases:
   - **Lookup/Find:** I need an answer to something now—frequently related to my current location in the world
   - **Explore/Play:** I have some time to kill and just want a few idle time distractions
   - **Check In/Status:** Something important to me keeps changing or updating and I want to stay on top of it.
