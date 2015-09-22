@@ -19,6 +19,9 @@ The data you'll need for effective product decisions is most often found outside
 ## Embrace your Constraints
 We all know that the private sector can take risks and use products that we as federal employees and public servants cannot. But rather than railing against these limitations we can instead embrace them and use tham to drive a better product. After all, if you can make *anything*, where do you even start?
 
+## Find a Sponsor
+Even good ideas don't always make it. It can be tough in an environment like the Federal Goverentmnt to navigate the many, many, *many* layers of approval and coordination that often have to happen in order to make a project successful. Often these efforts can be streamlined by finidng a senior champion for your project within your organization. After years of conducting project, we cannot state the benefeits of having a senior champion who is invested in your project enough.
+
 # Product vs. Project Management
 Finally, as mentioned in the README, this guide is based on the format laided out in the Product Mangement Body of Knowledge (ProdBOK). You have likely heard of a Project Manager, but possibly not a Product Manager. The difference is that, while *project* managers may come and go throughout the development of different projects (Technical project managers, promotion project managers, etc.) focused on a single prodcut, the *product* manager is responsible for the entire product throughout the lifecycle.
 
